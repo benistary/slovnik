@@ -1,4 +1,4 @@
-#Slovník 📕
+# Slovník 📕
 
 Toto je **hunspell** slovník slovenských slov preklopený do JSON poľa.
 
